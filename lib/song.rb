@@ -32,7 +32,5 @@ class Song
   # def artist_count
   #   hash of key value pairs of artists and their count using @@arists
   # end
-      end
-    end
-  end
+     
 end
