@@ -21,9 +21,9 @@ class Song
   @@genres unique
   end
   
-  # def self.artists
-  #   @@artists unique
-  # end
+  def self.artists
+  @@artists unique
+  end
   
   # def self.genre_count
   #   hash of key value pairs of genres and their count using @@genres
