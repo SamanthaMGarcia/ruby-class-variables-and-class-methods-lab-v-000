@@ -17,9 +17,9 @@ class Song
   @@count
   end
   
-  # def self.genres
-  #   @@genres unique
-  # end
+  def self.genres
+  @@genres unique
+  end
   
   # def self.artists
   #   @@artists unique
